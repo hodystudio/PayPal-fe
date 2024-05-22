@@ -1,0 +1,7 @@
+SDLC is good using devops and agile framewokrs
+linux
+scripting is automation
+git is dvcs
+aws is cloud computing provider
+ec2 is virtual 
+
